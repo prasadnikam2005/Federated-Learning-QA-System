@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PQflKwu4FDxe5x800lBfaGZkZE589M4t#scrollTo=2DSu3DS3-Vzu)
+
 # Federated Learning for Question Answering (NLP)
 
 ## 🚀 Overview
